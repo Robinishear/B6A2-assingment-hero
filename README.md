@@ -1,6 +1,6 @@
 # 🚗 Vehicle Rental System
 
-**Live Demo:** [https://b6-a2-one.vercel.app/](https://b6-a2-one.vercel.app/)
+**Live Demo:** [https://b6-a2-one.vercel.app/](/)
 
 A complete Vehicle Rental Management System that provides secure authentication, efficient vehicle management, intelligent booking logic, and a seamless user experience for both customers and admins.
 
